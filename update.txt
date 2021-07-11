@@ -1,0 +1,20 @@
++++++++++++++++++++ 0.2.2 +++++++++++++++++++
+
+	+ Folge 8 / mp3 / pdf / Vorschaubild / Voschautext
+	+ Sprach-Tags hinzu
+	+ Metadaten hinzu
+
+
++++++++++++++++++++ 0.2.1 +++++++++++++++++++
+
+ 	+ Folge 7 / mp3 / pdf / Vorschaubild / Voschautext
+	+ Impressum
+	+ Index Design angepasst
+	+ Schrift angepasst
+
++++++++++++++++++++ 0.2   +++++++++++++++++++ 
+
+    + Explore_Logo_Final.png
+    + Logo ausgetauscht
+    + Folge 5 / mp3 / pdf / Vorschaubild / Voschautext 
+    + Folge 6 / mp3 / pdf / Vorschaubild / Voschautext
